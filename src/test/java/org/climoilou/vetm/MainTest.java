@@ -4,8 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-class
-MainTest {
+class MainTest {
 
     @Test
     void mainTest() {
@@ -13,6 +12,7 @@ MainTest {
     }
 
     @Test
-    void testEchoue(){assertTrue(true);
+    void testEchoue() {
+        assertTrue(true);
     }
 }
